@@ -1,0 +1,9 @@
+alert_format: '&e(!) &f%msg%'
+
+staff_chat_prefix:
+    owner: '&7(&4&lOwner&7) '
+    admin: '&7(&c&lAdmin&7) '
+    srstaff: '&7(&5&lMod&7) '
+    staff: '&7(&2&lHelper&7) '
+    jrmod: '&7(&b&lJrMod&7) '
+    srmod: '&7(&6&lSrMod&7) '
